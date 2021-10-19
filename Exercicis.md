@@ -26,3 +26,15 @@ Proba de que funciona:
 
 **7. Accepta el pull request i realitza el merge amb «main». Adjunta captura de pantalla on es vegi que has realitzat el merge.**
 ![foto ex1](img/ex7.png)
+
+**8. Torna al teu repositori local i situat a la branca «main». Està actualitzada amb el repositori de «GitHub»? Indica que cal fer per a que ho estigui. Escriu la comanda a realitzar.**
+No ho està, hem de fer un pull.
+![foto ex1](img/ex8.png)
+
+**9. Clona el repositori «git@github.com:jvallbona/exercici2.git». Crea una branca anomenada «solucio». Indica la comanda que has utilitzat.**
+![foto ex1](img/ex9.png)
+![foto ex1](img/ex9.1.png)
+
+**10. Realitza en la branca el que demana el fitxer «Exercici09.css» per tal que el fitxer HTML quedi com la imatge «Resultat09.png». Adjunta una imatge a pantalla completa del teu ordinador amb un navegador visualitzant el fitxer «Exercici09.html»**
+![foto ex1](img/ex10.png)
+
