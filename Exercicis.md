@@ -85,4 +85,45 @@ pau@PauPCzillo:~/Gitses/exercici2$
 
 ![foto ex1](img/ex14.png)
 
+**15. Un dels membres del grup ha de crear un nou repositori privat en el seu compte de GitHub.
+A continuació, haurà de convidar l’altre membre del grup i a l’usuari jselga a afegir-se com a col·laborador (secció Settings). 
+Important: A la tasca indiqueu el nom d’usuari que crea al repositori**
 
+![foto ex1](img/invitation.png)
+
+**16. Tots dos alumnes heu de crear-vos un repositori local, amb el nom que desitgeu. Cal crear una carpeta en local i crear el repositori Git per terminal.**
+
+![foto ex1](img/ex15.png)
+
+**17.        Feu commit cada alumne des del repositori local.
+       Fixa’t que commit aplica els canvis en local, però fins que no fem push no s’envia al repositori remot.
+       En refrescar al repositori de GitHub, s’han de veure els dos missatges de commit.**
+
+![foto ex1](img/ex17.png)
+
+**18. Proveu ara de crear fitxers en local (un fitxer per alumne amb noms diferents). Actualitzeu el repositori remot amb les comandes adequades i adjunteu captura dels canvis. Que passaria si els fitxers es diguessin igual?**
+
+![foto ex1](img/Exercici_18.png)
+
+- Si els fitxers es diguessin igual hi hauria una colisió entre els dos commits, i hauriem de retirar un dels dos o cambiar el nom del fitxer o igualar el contingut.
+
+**19.        Cada alumne ha de crear una nova branca amb un checkout. Per exemple les braques alumne1 i alumne2
+       Proveu de crear cadascú diversos fitxers i fer push al repositori remot (sempre a la vostra branca!)
+       Feu també la prova de canviar-vos amb checkout a la branca del vostre company. Observa com canvia el contingut de la teva carpeta local!**
+
+![foto ex1](img/ex19.png)
+![foto ex1](img/ex19-1.png)
+
+- Els fitxers cambien per branca:
+
+![foto ex1](img/ex19-2.png)
+
+**20.        Crearem una branca dev, i cadascun dels alumnes farà merge amb la branca dev un cop finalitzi la seva feina.
+       Feu tots els integrants del grup merge a la branca dev.**
+
+![foto ex1](img/ex20.png)
+![foto ex1](img/ex20-1.png)
+
+**21.        Un cop fet el merge a develop, resolts els conflictes i «testejada l’aplicació», podem fer merge de la branca develop amb la master.**
+
+![foto ex1](img/ex21.png)
