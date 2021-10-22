@@ -57,3 +57,32 @@ git@github.com:PauPerez/exercici2.git
 ![foto ex1](img/ex12.png)
 
 **13. Crea una branca anomenada «dev» i situat en ella. Canvia la imatge del fons de pantalla per aquesta:  https://images.twinkl.co.uk/tr/image/upload/illustation/Birthday-Cake-.png Adjunta una captura de pantalla del navegador amb els canvis realitzats.**
+
+![foto ex1](img/ex13.png)
+
+**14. Puja els canvis al repositori de GitHub. Indica la comanda. Fes una captura de pantalla del pull request que s’ha creat. En quin repositori s’està demanant fer el pull a «main»? Escriu el teu nom en els comentaris del «pull request» i fes clic al botó «Create pull request»**
+~~~
+pau@PauPCzillo:~/Gitses/exercici2$ git push origin dev
+
+Enumerando objetos: 5, listo.
+Contando objetos: 100% (5/5), listo.
+Compresión delta usando hasta 4 hilos
+Comprimiendo objetos: 100% (3/3), listo.
+Escribiendo objetos: 100% (3/3), 315 bytes | 315.00 KiB/s, listo.
+Total 3 (delta 2), reusado 0 (delta 0)
+remote: Resolving deltas: 100% (2/2), completed with 2 local objects.
+remote: 
+remote: Create a pull request for 'dev' on GitHub by visiting:
+remote:      https://github.com/PauPerez/exercici2/pull/new/dev
+remote: 
+To github.com:PauPerez/exercici2.git
+ * [new branch]      dev -> dev
+pau@PauPCzillo:~/Gitses/exercici2$ 
+
+~~~
+
+- S'esta demanant fer el pull en el original, el que no te -1.
+
+![foto ex1](img/ex14.png)
+
+
